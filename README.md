@@ -81,7 +81,6 @@ Ou abra o projeto no IntelliJ IDEA e execute a classe principal.
 
 ```
 Conta-Bancaria-Java/
-├── Main.java           # Classe principal / ponto de entrada
 ├── ContaBancaria.java  # Lógica da conta (ou similar)
 ├── README.md
 └── LICENSE
