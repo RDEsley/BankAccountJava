@@ -81,7 +81,7 @@ Ou abra o projeto no IntelliJ IDEA e execute a classe principal.
 
 ```
 Conta-Bancaria-Java/
-├── ContaBancaria.java  # Lógica da conta (ou similar)
+├── BankAccount.java  # Lógica da conta (ou similar)
 ├── README.md
 └── LICENSE
 ```
